@@ -1,0 +1,8 @@
+name: Wbreloaded
+version: '${project.version}'
+main: dev.akex.wbreloaded.Wbreloaded
+api-version: 1.18
+authors: [ Akex06 ]
+
+commands:
+  wbr:
